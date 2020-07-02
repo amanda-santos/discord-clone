@@ -3,7 +3,7 @@
 </h1>
 <img src="demo/discord-clone.gif" />
 <p align="center">
-	Discord UI Clone (partial) for study purposes.
+	Discord UI Clone (partial) for study purposes, made based on the video by Rocketseat.
 	<br>
   Deployed <a href="https://discord-uiclone.netlify.app">here</a>.
 </p>

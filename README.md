@@ -1,6 +1,7 @@
 <h1 align="center">
     Discord  UI Clone
 </h1>
+<img src="demo/discord-clone.gif" />
 <p align="center">
 	Discord UI Clone (partial) for study purposes.
 	<br>
